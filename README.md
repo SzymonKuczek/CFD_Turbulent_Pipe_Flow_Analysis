@@ -26,6 +26,6 @@ Numerical simulation of turbulent air flow in a pipe performed to validate the *
 *Figure 2: Mesh cross-section with inflation layers.*
 
 ## Full Report
-📄 [PL] [Download the full technical report in Polish (PDF)](Report/Raport_CFD_AGH_PL.pdf)
-📄 [EN] [Download the full technical report in English (PDF)](Report/Report_CFD_AGH_EN.pdf)
+📄🇵🇱 [PL] [Download the full technical report in Polish (PDF)](Report/Raport_CFD_AGH_PL.pdf)
+📄🇺🇸 [EN] [Download the full technical report in English (PDF)](Report/Report_CFD_AGH_EN.pdf)
 
